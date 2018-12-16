@@ -36,3 +36,10 @@
 
 # CMake Files
 cmake-build-debug/
+
+
+*.sln
+
+.vs/
+.idea/
+ 
